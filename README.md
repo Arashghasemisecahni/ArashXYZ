@@ -8,5 +8,5 @@
 ---
 
 ### 🧠 About Me
-I build practical AI projects focused on real-world problem solving,
+I build practical AI projects focused on real-world problem-solving,
 with an emphasis on clean code, clear problem definition, and measurable results.
